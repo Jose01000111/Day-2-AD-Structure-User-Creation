@@ -29,9 +29,15 @@ Today I built the AD structure for the Chicago branch and used PowerShell to aut
 
 <img width="899" height="324" alt="AbotYLJ" src="https://github.com/user-attachments/assets/62e8d298-7397-418b-a45c-dd522e0cf9d4" />
 
+---
+
 <img width="905" height="444" alt="3T32v9F" src="https://github.com/user-attachments/assets/ce4fe6e2-2cfd-4f6f-ab5b-b35043807824" />
 
+---
+
 <img width="893" height="224" alt="5TFaApe" src="https://github.com/user-attachments/assets/aa08b901-805c-453c-99dd-4915deac9e6c" />
+
+---
 
 ## 🧑‍💻 Opened PowerShell as Administrator  Launched PowerShell to begin automated user provisioning.  
 
@@ -49,9 +55,15 @@ Today I built the AD structure for the Chicago branch and used PowerShell to aut
 
 <img width="899" height="228" alt="oQ4JKKF" src="https://github.com/user-attachments/assets/924681b1-3f04-46b4-b6c7-ab916935d5f8" />
 
+---
+
 <img width="907" height="210" alt="4AkvifM" src="https://github.com/user-attachments/assets/e3d7b837-1550-42f2-8441-732c75acba52" />
 
+---
+
 <img width="901" height="238" alt="ejfDb5z" src="https://github.com/user-attachments/assets/bee0a74d-0298-4ed5-8323-dc4ea698273f" />
+
+---
 
 ## 🧾 Summary  
 ## Day 2 was all about structure and automation. I successfully organized the OU hierarchy and automated user creation using a clean PowerShell loop. This setup reflects a real enterprise onboarding process, and it's laying the foundation for upcoming Group Policy and user management tasks.
