@@ -12,6 +12,17 @@ Today I built the AD structure for the Chicago branch and used PowerShell to aut
 👤 Users: 7 total (1 admin, 2 help desk, 4 employees)  
 🧰 Tools: ADUC (Active Directory Users & Computers), PowerShell
 
+| Full Name      | Username   | OU        | Email                        | 
+|----------------|------------|-----------|------------------------------|
+| Jose Guerrero  | jguerrero  | Admins    | jguerrero@chicago.bankcorp.local | 
+| Angela Price   | aprice     | HelpDesk  | aprice@chicago.bankcorp.local    | 
+| David Lin      | dlin       | HelpDesk  | dlin@chicago.bankcorp.local      | 
+| Maria Lopez    | mlopez     | Employees | mlopez@chicago.bankcorp.local    | 
+| Chris Young    | cyoung     | Employees | cyoung@chicago.bankcorp.local    | 
+| Lisa Chen     | lchen      | Employees | lchen@chicago.bankcorp.local     | 
+| Omar Brown     | obrown     | Employees | obrown@chicago.bankcorp.local    | 
+
+
 ## ✅ What I Did:
 
 ## 🏗️ Created Organizational Units (OUs)  Used ADUC GUI to build the ChicagoBranch structure with nested OUs: Admins, HelpDesk, and Employees.  
